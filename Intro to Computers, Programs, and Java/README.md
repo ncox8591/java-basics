@@ -19,4 +19,4 @@
 ###### The keyword class introduces a class definition, and its contents are included in a block beginning with an opening brace ({) and ending with a closing brace (}). Every Java program is a set of class definitions.
 ###### Methods are contained within a class. Java programs must have a main method to run. It is the entry point where the program starts when it's executed.
 ###### Comments are ignored by the compiler and denoted with two slashes (//) for a line comment or between '/*' and '*/' for block comments.
-###### Java source programs are case sensitive.
+###### Java source programs are case sensitive, and every statement in Java ends with the statement terminator: a semi-colon (;)
