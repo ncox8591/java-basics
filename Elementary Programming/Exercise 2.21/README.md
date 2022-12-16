@@ -1,5 +1,5 @@
 Intro to Java Programming and Data Structures by Y. Daniel Liang
-Chapter 1 Introduction to Computers, Programs, and Java
+<br/>Chapter 2 Elementary Programming
 
 ### Exercise 2.21 (Financial application: calculate future investment value) Write a program that reads in investment amount, annual interest rate, and number of years and displays the future investment value using the following formula:
                          futureInvestmentValue =
