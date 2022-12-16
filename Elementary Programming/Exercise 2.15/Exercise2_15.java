@@ -1,6 +1,6 @@
 /* Intro to Java Programming and Data Structures by Y. Daniel Liang
-Chapter 1 Introduction to Computers, Programs, and Java
-
+ * Chapter 2 Elementary Programming
+ * 
  * Exercise 2.15 (Geometry: distance of two points) Write a program that prompts 
  * the user to enter two points (x1, y1) and (x2, y2) and displays their 
  * distance. The formula for computing the distance is 
