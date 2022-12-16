@@ -1,5 +1,5 @@
 Intro to Java Programming and Data Structures by Y. Daniel Liang
-Chapter 2 Elementary Programming
+<br/>Chapter 2 Elementary Programming
 
 ### Exercise 2.15 (Geometry: distance of two points) Write a program that prompts the user to enter two points (x1, y1) and (x2, y2) and displays their distance. The formula for computing the distance is 
 ### √((x2 - x1)^2 + (y2 - y1)^2). Note you can use Math.pow(a, 0.5) to compute √(a). Here is a sample run:
