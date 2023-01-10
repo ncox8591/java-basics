@@ -92,7 +92,7 @@
     
     (int)(Math.random() * 10)       Returns a random integer between 0 and 9
     50 + (int)(Math.random() * 50)  Returns a random integer between 50 and 99
-    a + Math.random() * b           Returns a random number between a + b, excluding a and b
+    a + Math.random() * b           Returns a random number between a and a + b, excluding a and b
     
 ###### The character type char represents a single character. Characters can be compared based on their Unicode using the relational operators.
 ###### An escape sequence consists of a blackslash (\) followed by a character or a combination of digits. The character \ is the escape character. The characters ' ', \t, \f, \r, and \n are known as the whitespace characters.
